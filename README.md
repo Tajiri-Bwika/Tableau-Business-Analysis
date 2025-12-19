@@ -14,6 +14,7 @@ Project contents
 • Tableau dashboard file
 • Dashboard screenshots
 • Portfolio case study PDF
+https://github.com/Tajiri-Bwika/Tableau-Business-Analysis/blob/04f380827718262e426c46599697530d5241f7a4/analysis_notes/Tableau%20Portfolio%20Case%20Study.pdf 
 
 Data note
 The dataset used in this project exceeds GitHub file size limits. Data cleaning and preparation were performed prior to visualization. Full dataset available upon request.
